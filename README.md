@@ -1,2 +1,2 @@
 # Lattice-Boltzmann-Method
-Flapping wing simulation using D2Q9
+Flapping wing (NACA0012) simulation using D2Q9 Grad's approximation
